@@ -252,6 +252,11 @@
 			<artifactId>ehcache-core</artifactId>
 			<version>2.5.0</version>
 		</dependency>
+		<dependency>
+			<groupId>com.aliyun.mns</groupId>
+			<artifactId>aliyun-sdk-mns</artifactId>
+			<version>1.1.8</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<finalName>jesse-erp</finalName>
