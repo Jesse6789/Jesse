@@ -66,7 +66,7 @@
 							<div class="clear">
 								<a href="index.html#"><span class="text-white font-bold">@Mike
 										Mcalidek</span></a> <small class="block">Art Director</small> <a
-									href="index.html#" class="btn btn-xs btn-success m-t-xs">Upgrade</a>
+									href="#" class="btn btn-xs btn-success m-t-xs">Upgrade</a>
 							</div>
 						</div>
 						<div class="row m-l-none m-r-none m-b-n-xs text-center">
@@ -92,7 +92,7 @@
 					</section></li>
 				<li>
 					<div class="m-t m-l">
-						<a href="price.html"
+						<a href="#"
 							class="dropdown-toggle btn btn-xs btn-primary" title="Upgrade"><i
 							class="fa fa-long-arrow-up"></i></a>
 					</div>
